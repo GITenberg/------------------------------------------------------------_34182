@@ -1,0 +1,39 @@
+_repo: '------------------------------------------------------------_34182'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Martelaos, Antonios
+    alias: Μαρτελάος, Αντώνιος
+    birthdate: 1754
+    deathdate: 1819
+    gutenberg_agent_id: '36851'
+    url: http://www.gutenberg.org/2009/agents/36851
+    wikipedia: http://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B9%CE%BF%CF%82_%CE%9C%CE%B1%CF%81%CF%84%CE%B5%CE%BB%CE%AC%CE%BF%CF%82
+  - agent_name: Kalvos, Andreas
+    aliases:
+    - Κάλβος, Ανδρέας
+    - Calvos, Andreas
+    - Calbo, Andrea
+    - Kalvos, Andrea
+    birthdate: 1792
+    deathdate: 1869
+    gutenberg_agent_id: '36850'
+    url: http://www.gutenberg.org/2009/agents/36850
+    wikipedia: http://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%B1%CF%82_%CE%9A%CE%AC%CE%BB%CE%B2%CE%BF%CF%82
+description: ''
+gutenberg_issued: '2010-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34182'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek poetry, Modern'
+title: Η Λύρα Ανδρέου Κάλβου και Ανέκδοτος Ύμνος Αντωνίου Μαρτελάου
+url: http://www.gutenberg.org/ebooks/34182
